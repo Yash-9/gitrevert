@@ -1,3 +1,5 @@
+import java.util.Scanner;  
+
 public class p1 { 
     public static void findEvenOdd(int num)  
     {  
