@@ -1,6 +1,7 @@
 public class p2{
     public static void main (){
-       Syaytem.out.println("Hi Guys");
-       yaytem.out.println("Simplilearn!!!");
+       System.out.println("Hi Guys");
+       System.out.println("Simplilearn!!!");
+       
     }
 }
