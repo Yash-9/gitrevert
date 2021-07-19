@@ -13,8 +13,7 @@ public class p1 {
     public static void main(strgs[]){
         Scanner scan=new Scanner(System.in);  
         System.out.print("Enter number:-");
-        System.out.print("line2");
-        System.out.print("line3");       
+             
     }
 
 }
