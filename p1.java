@@ -14,6 +14,7 @@ public class p1 {
         Scanner scan=new Scanner(System.in);  
         System.out.print("Enter number:-");
         System.out.print("Number is even"); 
+      //System.out.print("Number is even");
     }
 
 }
